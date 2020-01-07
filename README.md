@@ -1,16 +1,7 @@
-# custom_dialog
+# Flutter Custom Dialog
 
-A new Flutter application.
+Source code for custom popup in flutter, create awesome looking popups in flutter. Replace your boring AlertDialog with custom popup.
 
-## Getting Started
+#Video tutorial for flutter custom popup
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+How to make Custom Dialog in flutter (Replace your boring AlertDialog with Attractive custom dialog)
